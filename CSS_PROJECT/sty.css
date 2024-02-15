@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    /* background-color: black 100%; */
+}
+header{
+    display: flex;
+    text-decoration: none;
+    padding: 10px;
+    /* border: 2px solid black; */
+    
+}
+#nav{
+    flex:3
+    /* border:2px solid red; */
+}
+nav{
+    display: flex;
+    flex:1;
+
+    /* border: 2px solid black; */
+}
+nav a{
+    flex:1;
+}
+
